@@ -1,0 +1,3 @@
+# Drop one image per category here (e.g. ring.png, necklace.png ...).
+# The UI falls back to a styled icon when an image is missing, so the app
+# runs fine even before you add real artwork.
